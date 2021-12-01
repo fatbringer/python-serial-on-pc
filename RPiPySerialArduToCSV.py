@@ -1,26 +1,4 @@
-RPiPySerialArduToCSV.py
-Who has access
-W
-K
-System properties
-Type
-Text
-Size
-1 KB
-Storage used
-1 KB
-Location
-PySerialArduToCSV
-Owner
-me
-Modified
-Oct 7, 2021 by me
-Opened
-4:13 PM by me
-Created
-Nov 9, 2021 with Google Drive Web
-Add a description
-Viewers can download
+
 # -*- coding: utf-8 -*-
 """
 Created on Sat Oct 24 11:18:51 2020
