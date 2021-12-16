@@ -1,10 +1,4 @@
 
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 24 11:18:51 2020
-
-@author: Nern
-"""
 
 import serial
 import datetime
